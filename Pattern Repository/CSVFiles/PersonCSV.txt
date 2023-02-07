@@ -1,0 +1,4 @@
+﻿1;someone;someone@gmail.com
+2;somebody;somebody@hotmail.com
+3;none;none@yahoo.com
+4;anonymous;anonymous@mail.com

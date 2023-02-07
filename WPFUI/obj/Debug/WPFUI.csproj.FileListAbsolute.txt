@@ -1,0 +1,34 @@
+D:\ФАИС\ИП-31\ИГИ\Pattern repository\Pattern Repository\WPFUI\obj\Debug\WPFUI.csproj.AssemblyReference.cache
+D:\ФАИС\ИП-31\ИГИ\Pattern repository\Pattern Repository\WPFUI\obj\Debug\WPFUI.csproj.SuggestedBindingRedirects.cache
+D:\ФАИС\ИП-31\ИГИ\Pattern repository\Pattern Repository\WPFUI\obj\Debug\Views\ShellView.g.cs
+D:\ФАИС\ИП-31\ИГИ\Pattern repository\Pattern Repository\WPFUI\obj\Debug\App.g.cs
+D:\ФАИС\ИП-31\ИГИ\Pattern repository\Pattern Repository\WPFUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\ФАИС\ИП-31\ИГИ\Pattern repository\Pattern Repository\WPFUI\obj\Debug\WPFUI_MarkupCompile.cache
+D:\ФАИС\ИП-31\ИГИ\Pattern repository\Pattern Repository\WPFUI\obj\Debug\WPFUI_MarkupCompile.lref
+D:\ФАИС\ИП-31\ИГИ\Pattern repository\Pattern Repository\WPFUI\bin\Debug\WPFUI.exe.config
+D:\ФАИС\ИП-31\ИГИ\Pattern repository\Pattern Repository\WPFUI\bin\Debug\WPFUI.exe
+D:\ФАИС\ИП-31\ИГИ\Pattern repository\Pattern Repository\WPFUI\bin\Debug\WPFUI.pdb
+D:\ФАИС\ИП-31\ИГИ\Pattern repository\Pattern Repository\WPFUI\bin\Debug\Caliburn.Micro.Core.dll
+D:\ФАИС\ИП-31\ИГИ\Pattern repository\Pattern Repository\WPFUI\bin\Debug\Caliburn.Micro.Platform.Core.dll
+D:\ФАИС\ИП-31\ИГИ\Pattern repository\Pattern Repository\WPFUI\bin\Debug\Caliburn.Micro.Platform.dll
+D:\ФАИС\ИП-31\ИГИ\Pattern repository\Pattern Repository\WPFUI\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\ФАИС\ИП-31\ИГИ\Pattern repository\Pattern Repository\WPFUI\bin\Debug\Caliburn.Micro.Core.pdb
+D:\ФАИС\ИП-31\ИГИ\Pattern repository\Pattern Repository\WPFUI\bin\Debug\Caliburn.Micro.Core.xml
+D:\ФАИС\ИП-31\ИГИ\Pattern repository\Pattern Repository\WPFUI\bin\Debug\Caliburn.Micro.Platform.pdb
+D:\ФАИС\ИП-31\ИГИ\Pattern repository\Pattern Repository\WPFUI\bin\Debug\Caliburn.Micro.Platform.xml
+D:\ФАИС\ИП-31\ИГИ\Pattern repository\Pattern Repository\WPFUI\bin\Debug\Caliburn.Micro.Platform.Core.pdb
+D:\ФАИС\ИП-31\ИГИ\Pattern repository\Pattern Repository\WPFUI\bin\Debug\Caliburn.Micro.Platform.Core.xml
+D:\ФАИС\ИП-31\ИГИ\Pattern repository\Pattern Repository\WPFUI\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\ФАИС\ИП-31\ИГИ\Pattern repository\Pattern Repository\WPFUI\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\ФАИС\ИП-31\ИГИ\Pattern repository\Pattern Repository\WPFUI\obj\Debug\App.baml
+D:\ФАИС\ИП-31\ИГИ\Pattern repository\Pattern Repository\WPFUI\obj\Debug\Views\ShellView.baml
+D:\ФАИС\ИП-31\ИГИ\Pattern repository\Pattern Repository\WPFUI\obj\Debug\WPFUI.g.resources
+D:\ФАИС\ИП-31\ИГИ\Pattern repository\Pattern Repository\WPFUI\obj\Debug\WPFUI.Properties.Resources.resources
+D:\ФАИС\ИП-31\ИГИ\Pattern repository\Pattern Repository\WPFUI\obj\Debug\WPFUI.csproj.GenerateResource.cache
+D:\ФАИС\ИП-31\ИГИ\Pattern repository\Pattern Repository\WPFUI\obj\Debug\WPFUI.csproj.CoreCompileInputs.cache
+D:\ФАИС\ИП-31\ИГИ\Pattern repository\Pattern Repository\WPFUI\obj\Debug\WPFUI.csproj.CopyComplete
+D:\ФАИС\ИП-31\ИГИ\Pattern repository\Pattern Repository\WPFUI\obj\Debug\WPFUI.exe
+D:\ФАИС\ИП-31\ИГИ\Pattern repository\Pattern Repository\WPFUI\obj\Debug\WPFUI.pdb
+D:\ФАИС\ИП-31\ИГИ\Pattern repository\Pattern Repository\WPFUI\bin\Debug\Pattern Repository.exe
+D:\ФАИС\ИП-31\ИГИ\Pattern repository\Pattern Repository\WPFUI\bin\Debug\Pattern Repository.pdb
+D:\ФАИС\ИП-31\ИГИ\Pattern repository\Pattern Repository\WPFUI\bin\Debug\Pattern Repository.exe.config

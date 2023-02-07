@@ -1,0 +1,8 @@
+D:\ФАИС\ИП-31\ИГИ\Pattern repository\Pattern Repository\Pattern Repository\obj\Debug\Pattern Repository.csproj.AssemblyReference.cache
+D:\ФАИС\ИП-31\ИГИ\Pattern repository\Pattern Repository\Pattern Repository\obj\Debug\Pattern Repository.csproj.SuggestedBindingRedirects.cache
+D:\ФАИС\ИП-31\ИГИ\Pattern repository\Pattern Repository\Pattern Repository\obj\Debug\Pattern Repository.csproj.CoreCompileInputs.cache
+D:\ФАИС\ИП-31\ИГИ\Pattern repository\Pattern Repository\Pattern Repository\bin\Debug\Pattern Repository.exe.config
+D:\ФАИС\ИП-31\ИГИ\Pattern repository\Pattern Repository\Pattern Repository\bin\Debug\Pattern Repository.exe
+D:\ФАИС\ИП-31\ИГИ\Pattern repository\Pattern Repository\Pattern Repository\bin\Debug\Pattern Repository.pdb
+D:\ФАИС\ИП-31\ИГИ\Pattern repository\Pattern Repository\Pattern Repository\obj\Debug\Pattern Repository.exe
+D:\ФАИС\ИП-31\ИГИ\Pattern repository\Pattern Repository\Pattern Repository\obj\Debug\Pattern Repository.pdb
